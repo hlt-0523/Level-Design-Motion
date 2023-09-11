@@ -1863,3 +1863,15 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.11-05.36.07:644][146]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
 [2023.09.11-05.36.07:652][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
 [2023.09.11-05.36.07:694][147]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.09.11-05.39.13:691][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.09.11-05.39.13:692][859]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.025
+[2023.09.11-05.39.13:693][859]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2023.09.11-05.39.13:757][859]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2023.09.11-05.39.13:757][859]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2023.09.11-05.39.13:806][859]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2
+[2023.09.11-05.39.13:807][859]LogSavePackage: Moving '../../../../../../Users/23382/Desktop/Desk/OBJ/UE5/myproject/Level_Design_Motion_git/Saved/BP_ThirdPersonCharacter_Auto289FB800144656A3489057AAD5BE6560A.tmp' to '../../../../../../Users/23382/Desktop/Desk/OBJ/UE5/myproject/Level_Design_Motion_git/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2.uasset'
+[2023.09.11-05.39.13:808][859]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Base_data/BPC_PlayerStats] ([2] browsable assets)...
+[2023.09.11-05.39.13:808][859]OBJ SavePackage: Finished generating thumbnails for package [/Game/Base_data/BPC_PlayerStats]
+[2023.09.11-05.39.13:834][859]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Base_data/BPC_PlayerStats_Auto2
+[2023.09.11-05.39.13:835][859]LogSavePackage: Moving '../../../../../../Users/23382/Desktop/Desk/OBJ/UE5/myproject/Level_Design_Motion_git/Saved/BPC_PlayerStats_Auto2AA1F92394155458A098EB38C613F6104.tmp' to '../../../../../../Users/23382/Desktop/Desk/OBJ/UE5/myproject/Level_Design_Motion_git/Saved/Autosaves/Game/Base_data/BPC_PlayerStats_Auto2.uasset'
+[2023.09.11-05.39.13:836][859]LogFileHelpers: Auto-saving content packages took 0.144
