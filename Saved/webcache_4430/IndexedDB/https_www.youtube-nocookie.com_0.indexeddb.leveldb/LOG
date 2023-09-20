@@ -1,0 +1,6 @@
+2023/09/20-04:44:00.211 2bb8 Creating DB C:/Users/Troy/Desktop/MyGame/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/09/20-04:44:00.219 2bb8 Reusing MANIFEST C:/Users/Troy/Desktop/MyGame/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/20-04:45:33.221 4c30 Level-0 table #5: started
+2023/09/20-04:45:33.252 4c30 Level-0 table #5: 1167 bytes OK
+2023/09/20-04:45:33.254 4c30 Delete type=0 #3
+2023/09/20-04:45:33.254 4c30 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
